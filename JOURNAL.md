@@ -10,8 +10,3 @@ This is my journal of the design and building process of **100kV Testing Power S
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/17).
 
 
-## 9/25/2025 - Research  
-
-Researched a bit and performed some calculations. The flyback most likely won't be driven at the full 300 watts of power, and even then the CW multiplier isn't 100% efficient so I'd expect more of a 75kV-80kV range of output voltage. This shouldn't be too much of a difference though and I can still use it for my testing. I also want to add some safety features like an e-stop. Definitely an integrated power supply so I can hook it up directly to mains as well. I attached an image of what I expect the output to be like.![zdroj_80kv_02.jpg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTAsInB1ciI6ImJsb2JfaWQifX0=--14b0759ae0c6df1b1786a833c04e43adb3ada3d0/zdroj_80kv_02.jpg)
-  
-
