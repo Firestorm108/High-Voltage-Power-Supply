@@ -6,7 +6,12 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **100kV Testing Power Supply**.  
+This is my journal of the design and building process of **(250kV-1MV) High Voltage Power Supply**.  
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/17).
 
+
+## 10/1/2025 - Picked some parts  
+
+Found a good high frequency NST that should work well for this project. Also found some surprisingly cheap capacitors but had to go with slower microwave diodes due to the current output of the NST. I also found a good HV meter and current meter for the power supply. ![Screenshot 2025-09-30 212257.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODQsInB1ciI6ImJsb2JfaWQifX0=--03adf19aa85471e2b0c97838b2031c4353bfc420/Screenshot%202025-09-30%20212257.png)
+  
 
