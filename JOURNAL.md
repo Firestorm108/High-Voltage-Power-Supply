@@ -6,12 +6,17 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **(250kV-1MV) High Voltage Power Supply**.  
+This is my journal of the design and building process of **High Voltage Power Supply**.  
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/17).
 
 
 ## 10/1/2025 - Picked some parts  
 
 Found a good high frequency NST that should work well for this project. Also found some surprisingly cheap capacitors but had to go with slower microwave diodes due to the current output of the NST. I also found a good HV meter and current meter for the power supply. ![Screenshot 2025-09-30 212257.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODQsInB1ciI6ImJsb2JfaWQifX0=--03adf19aa85471e2b0c97838b2031c4353bfc420/Screenshot%202025-09-30%20212257.png)
+  
+
+## 10/3/2025 - Designed a flyback transformer  
+
+I looked at high frequency NSTs, flyback modules run from a regular MOSFET based driver, and even laser power supplies! However, nothing fit my needs. A high frequency NST was too expensive and outputted too much current. Standard small flyback modules were too weak and die quickly. I decided the best option was to wind and design my own flyback transformer. I had to perform some calculations and popped open my electronics book since induction is scary but I figured it out. I think it'll be pretty cool. Also decided that parafin wax is the best insulator since I don't have a vacuum chamber for resin and i HATE oil. ![Screenshot 2025-10-02 174216.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMxLCJwdXIiOiJibG9iX2lkIn19--c9cbeee6adcd015d52afd89f6bc3704aa1fca86f/Screenshot%202025-10-02%20174216.png)
   
 
