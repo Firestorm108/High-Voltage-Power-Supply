@@ -39,3 +39,9 @@ Routed the PCB, decided to only make it 4 stages per PCB. I'm going to just put 
 Put in all the components, added mounting holes/screws n stuff. I think it turned out pretty well, and it looks like a piece of lab equipment which is kinda cool as well. Luckily I can place the components close together because I'll be putting in 1 pound of insulation inside of it otherwise the power supply would be absolutely huge. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzczLCJwdXIiOiJibG9iX2lkIn19--57d1b0dfd17bd112f9f247e0b0edc142aca1090d/image.png)
   
 
+## 10/4/2025 8 PM - Did a render and some polishing, added files  
+
+![3f9d282f-023f-48bd-ba73-684587c5a4c4.PNG](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDEyLCJwdXIiOiJibG9iX2lkIn19--039fc9fae911b25c4b7d8f96ed7f55717eed23a7/3f9d282f-023f-48bd-ba73-684587c5a4c4.PNG)
+
+Uploaded all files to github, did a render, and polished it overall. It's ready to ship now and this should be the final journal entry. I do think the flyback will take a couple rewindings to get right but otherwise the build process should go smoothly. Custom wound transformers usually arc to themselves and require some tuning so that'll probably take the longest about of time.  
+
